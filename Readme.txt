@@ -1,6 +1,8 @@
 Run the program with the following:
 open a terminal: [in Linux/OSX]
+#install haskell
 
+sudo apt install haskell-platform
 chmod +x run.sh
 ./run.sh
 
